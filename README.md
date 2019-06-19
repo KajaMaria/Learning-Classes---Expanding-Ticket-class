@@ -1,3 +1,3 @@
 # Ticket Class 
 
-## Project showing how classes make chaning program much easier 
+## Project showing how classes make changing and developing or addapting program much easier 
